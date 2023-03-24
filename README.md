@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Dimuronas.github.io/rsschool-cv/cv
+https://Dimuronas.github.io/rsschool-cv/
