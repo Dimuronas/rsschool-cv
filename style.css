@@ -1,0 +1,16 @@
+body {
+    background: rgb(140, 166, 174);
+    max-width: 70%;
+    margin: 0px auto;
+}
+
+.avatar {
+    background-image: url(bender.jpg);
+    position: 0 0;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px solid #000;
+}
