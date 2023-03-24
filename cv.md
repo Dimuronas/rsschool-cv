@@ -4,8 +4,8 @@
 
 - **Location:** Vilnius, Lithuania
 - **Phone:** +370 626 25 049
-- **Email:** demuron@gmail.com
-- **GitHub:** Demuron
+- **Email:** dimuronas@gmail.com
+- **GitHub:** Dimuronas
 
 ### About Me
 
